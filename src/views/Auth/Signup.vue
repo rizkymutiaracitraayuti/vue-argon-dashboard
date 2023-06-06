@@ -98,7 +98,7 @@
             <div class="card-body">
               <form role="form">
                 <argon-input type="text" placeholder="Name" aria-label="Name" />
-                <argon-input type="email" placeholder="Email" aria-label="Email" />
+                <argon-input type="text" placeholder="Email" aria-label="Email" />
                 <argon-input type="password" placeholder="Password" aria-label="Password" />
                 <argon-checkbox checked>
                   <label class="form-check-label" for="flexCheckDefault">
