@@ -9,15 +9,9 @@
           <thead>
             <tr>
               <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Author</th>
-              <th
-                class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2"
-              >Function</th>
-              <th
-                class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7"
-              >Status</th>
-              <th
-                class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7"
-              >Employed</th>
+              <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Function</th>
+              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Status</th>
+              <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Employed</th>
               <th class="text-secondary opacity-7"></th>
             </tr>
           </thead>
@@ -26,11 +20,7 @@
               <td>
                 <div class="d-flex px-2 py-1">
                   <div>
-                    <img
-                      src="../../assets/img/team-2.jpg"
-                      class="avatar avatar-sm me-3"
-                      alt="user1"
-                    />
+                    <img src="../../assets/img/team-2.jpg" class="avatar avatar-sm me-3" alt="user1" />
                   </div>
                   <div class="d-flex flex-column justify-content-center">
                     <h6 class="mb-0 text-sm">John Michael</h6>
@@ -49,23 +39,14 @@
                 <span class="text-secondary text-xs font-weight-bold">23/04/18</span>
               </td>
               <td class="align-middle">
-                <a
-                  href="javascript:;"
-                  class="text-secondary font-weight-bold text-xs"
-                  data-toggle="tooltip"
-                  data-original-title="Edit user"
-                >Edit</a>
+                <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Edit</a>
               </td>
             </tr>
             <tr>
               <td>
                 <div class="d-flex px-2 py-1">
                   <div>
-                    <img
-                      src="../../assets/img/team-3.jpg"
-                      class="avatar avatar-sm me-3"
-                      alt="user2"
-                    />
+                    <img src="../../assets/img/team-3.jpg" class="avatar avatar-sm me-3" alt="user2" />
                   </div>
                   <div class="d-flex flex-column justify-content-center">
                     <h6 class="mb-0 text-sm">Alexa Liras</h6>
@@ -84,23 +65,14 @@
                 <span class="text-secondary text-xs font-weight-bold">11/01/19</span>
               </td>
               <td class="align-middle">
-                <a
-                  href="javascript:;"
-                  class="text-secondary font-weight-bold text-xs"
-                  data-toggle="tooltip"
-                  data-original-title="Edit user"
-                >Edit</a>
+                <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Edit</a>
               </td>
             </tr>
             <tr>
               <td>
                 <div class="d-flex px-2 py-1">
                   <div>
-                    <img
-                      src="../../assets/img/team-4.jpg"
-                      class="avatar avatar-sm me-3"
-                      alt="user3"
-                    />
+                    <img src="../../assets/img/team-4.jpg" class="avatar avatar-sm me-3" alt="user3" />
                   </div>
                   <div class="d-flex flex-column justify-content-center">
                     <h6 class="mb-0 text-sm">Laurent Perrier</h6>
@@ -119,23 +91,14 @@
                 <span class="text-secondary text-xs font-weight-bold">19/09/17</span>
               </td>
               <td class="align-middle">
-                <a
-                  href="javascript:;"
-                  class="text-secondary font-weight-bold text-xs"
-                  data-toggle="tooltip"
-                  data-original-title="Edit user"
-                >Edit</a>
+                <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Edit</a>
               </td>
             </tr>
             <tr>
               <td>
                 <div class="d-flex px-2 py-1">
                   <div>
-                    <img
-                      src="../../assets/img/team-3.jpg"
-                      class="avatar avatar-sm me-3"
-                      alt="user4"
-                    />
+                    <img src="../../assets/img/team-3.jpg" class="avatar avatar-sm me-3" alt="user4" />
                   </div>
                   <div class="d-flex flex-column justify-content-center">
                     <h6 class="mb-0 text-sm">Michael Levi</h6>
@@ -154,23 +117,14 @@
                 <span class="text-secondary text-xs font-weight-bold">24/12/08</span>
               </td>
               <td class="align-middle">
-                <a
-                  href="javascript:;"
-                  class="text-secondary font-weight-bold text-xs"
-                  data-toggle="tooltip"
-                  data-original-title="Edit user"
-                >Edit</a>
+                <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Edit</a>
               </td>
             </tr>
             <tr>
               <td>
                 <div class="d-flex px-2 py-1">
                   <div>
-                    <img
-                      src="../../assets/img/team-2.jpg"
-                      class="avatar avatar-sm me-3"
-                      alt="user5"
-                    />
+                    <img src="../../assets/img/team-2.jpg" class="avatar avatar-sm me-3" alt="user5" />
                   </div>
                   <div class="d-flex flex-column justify-content-center">
                     <h6 class="mb-0 text-sm">Richard Gran</h6>
@@ -189,23 +143,14 @@
                 <span class="text-secondary text-xs font-weight-bold">04/10/21</span>
               </td>
               <td class="align-middle">
-                <a
-                  href="javascript:;"
-                  class="text-secondary font-weight-bold text-xs"
-                  data-toggle="tooltip"
-                  data-original-title="Edit user"
-                >Edit</a>
+                <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Edit</a>
               </td>
             </tr>
             <tr>
               <td>
                 <div class="d-flex px-2 py-1">
                   <div>
-                    <img
-                      src="../../assets/img/team-4.jpg"
-                      class="avatar avatar-sm me-3"
-                      alt="user6"
-                    />
+                    <img src="../../assets/img/team-4.jpg" class="avatar avatar-sm me-3" alt="user6" />
                   </div>
                   <div class="d-flex flex-column justify-content-center">
                     <h6 class="mb-0 text-sm">Miriam Eric</h6>
@@ -224,12 +169,7 @@
                 <span class="text-secondary text-xs font-weight-bold">14/09/20</span>
               </td>
               <td class="align-middle">
-                <a
-                  href="javascript:;"
-                  class="text-secondary font-weight-bold text-xs"
-                  data-toggle="tooltip"
-                  data-original-title="Edit user"
-                >Edit</a>
+                <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Edit</a>
               </td>
             </tr>
           </tbody>
@@ -238,7 +178,6 @@
     </div>
   </div>
 </template>
-
 <script>
 export default {
   name: "authors-table",

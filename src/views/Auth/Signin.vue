@@ -88,6 +88,7 @@ export default {
     async submitLogin() {
       try {
         await this.a$login({ ...this.input });
+        this.$router.replace({ name: "Default" });
       } catch (e) {
         console.error(e);
       }

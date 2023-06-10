@@ -12,7 +12,6 @@
     </div>
   </div>
 </template>
-
 <script>
 import AuthorsTable from "@/components/examples/AuthorsTable.vue";
 import ProjectsTable from "@/components/examples/ProjectsTable.vue";

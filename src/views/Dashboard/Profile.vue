@@ -179,7 +179,6 @@
     </div>
   </main>
 </template>
-
 <script>
 import setNavPills from "@/assets/js/nav-pills.js";
 import setTooltip from "@/assets/js/tooltip.js";
